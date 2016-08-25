@@ -7,3 +7,14 @@ We believe training a neural network on the train images and then using Visualiz
 # Training a CNN
 
 A large convolutional network is one option in achieving this, but it is very expensive
+
+# Classification
+0 - No DR
+
+1 - Mild
+
+2 - Moderate
+
+3 - Severe
+
+4 - Proliferative DR
